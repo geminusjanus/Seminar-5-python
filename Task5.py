@@ -19,7 +19,7 @@ def encode_rle(ss):
 str_code = encode_rle(my_text)
 print(str_code)
 
-with open('Task5 encoded.txt', 'r') as data:
+with open('Task 5 encoded.txt', 'r') as data:
     my_text2 = data.read()
 
 def decoding_rle(ss:str):
