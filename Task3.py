@@ -1,5 +1,3 @@
-
-
 board = list(range(1,10))
 
 def draw_board(board):
